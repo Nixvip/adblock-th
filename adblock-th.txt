@@ -103,3 +103,8 @@
 ##[href^="https://www.512xiaojin.com/th-th"]
 ##[href*="https://www.ufa350.com/"]
 ##[href^="https://bit.ly/2lMvtKN"]
+##[href^="https://bit.ly/2W2ww8U"]
+###insad_l
+###insad_r
+###insad
+||tinyadz.com/images/*$image
