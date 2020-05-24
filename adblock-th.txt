@@ -108,3 +108,13 @@
 ###insad_r
 ###insad
 ||tinyadz.com/images/*$image
+##[href^="https://member.g2g289.com/register"]
+##[href^="https://www.slotofgod.com"]
+##[href^="https://gclub44auto.com/"]
+##[href^="https://www.sagame350.com/casino/"]
+##[href^="https://www.sagame350.com/"]
+##[href^="https://wmbet444.com/aff/melizm"]
+##[href^="https://wmbet444.com/aff/"]
+##[href^="https://wmbet444.com/"]
+##[href^="https://ufa24h.co/u/d82c-8d16-19ad-8176"]
+##[href^="https://ufa24h.co/"]
