@@ -275,3 +275,19 @@
 ##[href^="https://line.me/R/ti/p/@sapro"]
 ##[href^="https://bit.ly/2R6GjrA"]
 www.vojkuhd.com##section
+www.vojkuhd.com###slidel
+##.sidebar-widget.banner-sidebar
+##.banner-header
+##.ad-box-widget
+##.banner-content
+www.pannunghd.com###id01
+
+! 25/5/2563 https://animepon.com
+animepon.com##.mb-3.col-xs-12 > div:nth-of-type(1)
+
+! 25/5/2563 https://merlin-anime.com
+merlin-anime.com##.pd-bn.row
+###banner-right > .banner-item
+###banner-left > .banner-item
+###banner-right
+###banner-left
