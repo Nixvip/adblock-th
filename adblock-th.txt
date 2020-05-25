@@ -291,3 +291,65 @@ merlin-anime.com##.pd-bn.row
 ###banner-left > .banner-item
 ###banner-right
 ###banner-left
+
+! 25/5/2563 https://www.anime-sugoi.com
+www.anime-sugoi.com##.col-md-8
+www.anime-sugoi.com##.col-md-12 > center:nth-of-type(2)
+www.anime-sugoi.com##center:nth-of-type(2) > div.img-thumbnail:nth-of-type(1)
+www.anime-sugoi.com##div.img-thumbnail:nth-of-type(2)
+www.anime-sugoi.com##.panel-body > center:nth-of-type(2)
+
+! 25/5/2563 https://www.gg-anime.com
+www.gg-anime.com###top-section > center:nth-of-type(1)
+www.gg-anime.com###top-section > center:nth-of-type(2)
+www.gg-anime.com###top-section > center:nth-of-type(3)
+www.gg-anime.com###top-section > center:nth-of-type(4)
+www.gg-anime.com###top-section > center:nth-of-type(5)
+www.gg-anime.com###top-section > center:nth-of-type(6)
+www.gg-anime.com###top-section > center:nth-of-type(7)
+www.gg-anime.com###top-section > center:nth-of-type(8)
+www.gg-anime.com###top-section > center:nth-of-type(9)
+www.gg-anime.com###top-section > center:nth-of-type(10)
+www.gg-anime.com###top-section > center:nth-of-type(11)
+www.gg-anime.com###top-section > center:nth-of-type(12)
+www.gg-anime.com###top-section > center:nth-of-type(13)
+www.gg-anime.com###top-section > center:nth-of-type(14)
+www.gg-anime.com###top-section > center:nth-of-type(15)
+www.gg-anime.com###top-section > center:nth-of-type(16)
+www.gg-anime.com###top-section > center:nth-of-type(17)
+www.gg-anime.com###top-section > center:nth-of-type(18)
+www.gg-anime.com###top-section > center:nth-of-type(19)
+www.gg-anime.com###top-section > center:nth-of-type(20)
+www.gg-anime.com###top-section > center:nth-of-type(21)
+www.gg-anime.com###top-section > center:nth-of-type(22)
+www.gg-anime.com###top-section > center:nth-of-type(23)
+www.gg-anime.com###top-section > center:nth-of-type(24)
+www.gg-anime.com###top-section > center:nth-of-type(25)
+www.gg-anime.com###top-section > center:nth-of-type(26)
+www.gg-anime.com###top-section > center:nth-of-type(27)
+www.gg-anime.com###top-section > center:nth-of-type(28)
+www.gg-anime.com###top-section > center:nth-of-type(29)
+www.gg-anime.com###top-section > center:nth-of-type(30)
+www.gg-anime.com###main > center
+www.gg-anime.com###colophon
+
+##[href*="https://df011.com/gjdren"]
+##[href*="http://lucaclub88.games/gganimeLC"]
+##[href*="http://scr888th.games/gganime888"]
+##[href*="https://ufa656.com/"]
+##[href*="https://alllnw.com/casino/"]
+##[href*="https://ace333.city/"]
+##[href*="https://lsm99.vip/"]
+##[href*="https://tbsbet.club/"]
+##[href*="https://www.pidgame1168.com/"]
+##[href*="https://mb2bet.com/"]
+##[href**="https://www.ufa700.com/บาคาร่าขั้นต่ำ10บาท/"]
+##[href**="https://bacc1688.world/"]
+##[href*="https://sbobet88.city"]
+##[href*="http://psthai888.games/gganimePS"]
+##[href*="https://bacc1688.world/"]
+
+! 25/5/2563 https://www.animeloli.com
+www.animeloli.com##div.panel-danger.panel:nth-of-type(2) > .panel-body
+www.animeloli.com##.col-md-8
+www.animeloli.com##.imgbanner
