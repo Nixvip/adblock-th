@@ -6,6 +6,7 @@ aplhabet.applinzi.com
 bi.yeshen.com
 webfreevpn.com
 postback.applinzi.com
+api.bignox.com
 api-new.bignox.com
 bianxian-log.bignox.com
 res.noxmobi.com
