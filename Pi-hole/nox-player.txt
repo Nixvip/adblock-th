@@ -1,0 +1,13 @@
+(\.|^)googleapis\.com$
+(\.|^)trnox\.com$
+launcher-us.yeshen.com
+googleclubstore.com
+tracking.apptrackerlink.com
+aplhabet.applinzi.com
+bi.yeshen.com
+webfreevpn.com
+postback.applinzi.com
+api-new.bignox.com
+bianxian-log.bignox.com
+res.noxmobi.com
+noxagile.bceapp.com
