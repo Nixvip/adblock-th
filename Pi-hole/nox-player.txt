@@ -10,3 +10,5 @@ api-new.bignox.com
 bianxian-log.bignox.com
 res.noxmobi.com
 noxagile.bceapp.com
+api.noxinfluencer.com
+appcenter-api.bignox.com
