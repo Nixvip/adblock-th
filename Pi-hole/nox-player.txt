@@ -1,4 +1,3 @@
-(\.|^)googleapis\.com$
 (\.|^)trnox\.com$
 launcher-us.yeshen.com
 googleclubstore.com
