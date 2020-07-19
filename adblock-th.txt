@@ -353,3 +353,5 @@ www.gg-anime.com###colophon
 www.animeloli.com##div.panel-danger.panel:nth-of-type(2) > .panel-body
 www.animeloli.com##.col-md-8
 www.animeloli.com##.imgbanner
+
+##[href*="https://sagamingbet.com/affliate/SA0017787"]
