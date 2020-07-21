@@ -91,7 +91,9 @@
 0.0.0.0 lucaclub88.com
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 vz-cdn.trafficjunky.net
+0.0.0.0 vz-cdn-ap.trafficjunky.net
 0.0.0.0 hw-cdn.trafficjunky.net
+0.0.0.0 hw-cdn-ap.trafficjunky.net
 0.0.0.0 www.imglnkd.com
 0.0.0.0 ctempurl.com
 0.0.0.0 loto2020-001-site1.ctempurl.com
@@ -151,3 +153,13 @@
 0.0.0.0 trwl1.com
 0.0.0.0 c.d1272serve.xyz
 0.0.0.0 d1272serve.xyz
+0.0.0.0 www.vfthr.com
+0.0.0.0 sa800.com
+0.0.0.0 dubai9999.com
+0.0.0.0 www.lottothaibet.com
+0.0.0.0 sexygame66.com
+0.0.0.0 slot191.com
+0.0.0.0 sexygame1688.com
+0.0.0.0 www.ssgame350.com
+0.0.0.0 dooball66.com
+0.0.0.0 www.score350.com
