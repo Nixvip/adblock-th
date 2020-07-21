@@ -89,6 +89,7 @@
 0.0.0.0 ufabetwins.com
 0.0.0.0 scr888th.com
 0.0.0.0 lucaclub88.com
+0.0.0.0 ads.trafficjunky.net
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 www.imglnkd.com
@@ -144,3 +145,9 @@
 0.0.0.0 noxagile.bceapp.com
 0.0.0.0 api.noxinfluencer.com
 0.0.0.0 appcenter-api.bignox.com
+0.0.0.0 storage.adxadtracker.com
+0.0.0.0 adxadtracker.com
+0.0.0.0 r.trwl1.com
+0.0.0.0 trwl1.com
+0.0.0.0 c.d1272serve.xyz
+0.0.0.0 d1272serve.xyz
