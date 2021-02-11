@@ -355,3 +355,68 @@ www.animeloli.com##.col-md-8
 www.animeloli.com##.imgbanner
 
 ##[href*="https://sagamingbet.com/affliate/SA0017787"]
+
+! 2021-02-11 https://movie222hd.com
+movie222hd.com##[src="https://movie222hd.com/wp-content/uploads/16055.gif"]
+movie222hd.com##.size-full.attachment-full.wp-image-7453.image
+movie222hd.com###ads-box
+movie222hd.com##.col-xs-12 > .img-banner-right-top
+movie222hd.com##[href="https://www.ufabet168.info/%E0%B8%9A%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/"] > .img-banner-left-top
+movie222hd.com##.col-xs-12 > .img-banner-left-top
+movie222hd.com##.col-xs-12 > .img-banner-center-bottom
+
+! 2021-02-11 https://movie222hd.com
+movie222hd.com##[src="https://movie222hd.com/wp-content/uploads/16055.gif"]
+movie222hd.com##.size-full.attachment-full.wp-image-7453.image
+movie222hd.com###ads-box
+movie222hd.com##.col-xs-12 > .img-banner-right-top
+movie222hd.com##[href="https://www.ufabet168.info/%E0%B8%9A%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/"] > .img-banner-left-top
+movie222hd.com##.col-xs-12 > .img-banner-left-top
+movie222hd.com##.col-xs-12 > .img-banner-center-bottom
+
+! 2021-02-11 https://animekimi.com
+animekimi.com###animekimiads1
+animekimi.com###animekimiads4
+animekimi.com###animekimiads5
+animekimi.com###animekimiads2
+animekimi.com###animekimiads3
+
+! 2021-02-11 https://www.anime-master.com
+www.anime-master.com##div.container > .row > .center_lnwphp
+www.anime-master.com##div#slider-b:nth-of-type(5)
+www.anime-master.com##div#slider-b:nth-of-type(4)
+
+! 2021-02-11 https://www.animerem.com
+www.animerem.com##[href="https://ufac4.com"] > .imgbanner
+www.animerem.com##[href="https://hydra888.com"] > .imgbanner
+www.animerem.com##[href="https://kingdom66.com/"] > .imgbanner
+www.animerem.com##[href="https://ufazeed.com"] > .imgbanner
+www.animerem.com##[href="https://lockdown168.com/"] > .imgbanner
+www.animerem.com##[href="https://ufa1919.com"] > .imgbanner
+www.animerem.com##[href="https://london168.com/"] > .imgbanner
+www.animerem.com##[href="https://brazil999.com/"] > .imgbanner
+www.animerem.com##[href="https://juad888.com"] > .imgbanner
+www.animerem.com##[href="https://www.texas789.com/"] > .imgbanner
+www.animerem.com##[href^="https://www.ad-pic.com/fwlink.php"] > .imgbanner
+www.animerem.com##[href="https://lsm99good.com/"] > .imgbanner
+www.animerem.com##[href="https://www.luca69.com/"] > .imgbanner
+www.animerem.com##[href="https://bit.ly/2XAImHx"] > .imgbanner
+www.animerem.com##center:nth-of-type(23)
+www.animerem.com##center:nth-of-type(22)
+www.animerem.com##[href="https://www.ufabet8x.com/"] > .imgbanner
+www.animerem.com##[href="https://bit.ly/2WToQpl"] > .imgbanner
+www.animerem.com##[href="https://spadeclub99.com/"] > .imgbanner
+www.animerem.com##[href="https://www.pgwin888.com/"] > .imgbanner
+www.animerem.com##[href="https://www.ruayz.com/"] > .imgbanner
+www.animerem.com##[href="https://www.sagame350.bet/baccarat/"] > .imgbanner
+www.animerem.com##[href="https://www.ufa350.bet/"] > .imgbanner
+www.animerem.com##[href="https://lockdown168.com"] > .imgbanner
+www.animerem.com##[href="https://newyork888.com/"] > .imgbanner
+www.animerem.com##[href="https://www.allbaccarat.com/"] > .imgbanner
+
+! 2021-02-11 https://www.mio-anime.com
+www.mio-anime.com##.text-center
+www.mio-anime.com##[href="https://kingdom66.com"] > .img-responsive
+www.mio-anime.com##[href="https://lotto432.com"] > .img-responsive
+www.mio-anime.com##[href="https://hydra888.com"] > .img-responsive
+||i.imgur.com/*.gif$image
