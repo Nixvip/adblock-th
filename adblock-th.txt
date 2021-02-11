@@ -478,3 +478,16 @@ animekimi.com###animekimiads3
 
 ! 2021-02-11 https://akaanime.com
 ||akaanime.com/images/banners/*.gif$image
+
+##[href*="https://www.movie678.com/ads/redirect/"]
+##[href*="https://nungdeemak.com/ads/redirect/"]
+##[href="https://lin.ee/kIDPfCL"]
+##[href*="https://www.sbobet433.com/"]
+##[href*="https://ufazeed.com/"]
+##[href*="https://ufastar356.com/"]
+##[href*="https://joker.game/"]
+##[href*="https://slot.game/"]
+##[href*="https://pgslot.game/"]
+
+! 2021-02-11 https://www.doomovie-hd.com
+www.doomovie-hd.com##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/"]
