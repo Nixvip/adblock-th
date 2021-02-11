@@ -381,42 +381,108 @@ animekimi.com###animekimiads5
 animekimi.com###animekimiads2
 animekimi.com###animekimiads3
 
-! 2021-02-11 https://www.anime-master.com
-www.anime-master.com##div.container > .row > .center_lnwphp
-www.anime-master.com##div#slider-b:nth-of-type(5)
-www.anime-master.com##div#slider-b:nth-of-type(4)
+##[href="https://ufac4.com"]
+##[href="https://hydra888.com"]
+##[href="https://kingdom66.com/"]
+##[href="https://ufazeed.com"]
+##[href="https://lockdown168.com/"]
+##[href="https://ufa1919.com"]
+##[href="https://london168.com/"]
+##[href="https://brazil999.com/"]
+##[href="https://juad888.com"]
+##[href="https://www.texas789.com/"]
+##[href^="https://www.ad-pic.com/fwlink.php"]
+##[href="https://lsm99good.com/"]
+##[href="https://www.luca69.com/"]
+##[href="https://bit.ly/2XAImHx"]
+##[href="https://www.ufabet8x.com/"]
+##[href="https://bit.ly/2WToQpl"]
+##[href="https://spadeclub99.com/"]
+##[href="https://www.pgwin888.com/"]
+##[href="https://www.ruayz.com/"]
+##[href="https://www.sagame350.bet/baccarat/"]
+##[href="https://www.ufa350.bet/"]
+##[href="https://lockdown168.com"]
+##[href="https://newyork888.com/"]
+##[href="https://www.allbaccarat.com/"]
+##[href="https://kingdom66.com"]
+##[href="https://lotto432.com"]
+##[href="https://k9winball.com/animelizm2"]
+##[href="https://london168.com"]
+##[href="https://www.slot1234.com/promotion/bonus"]
+##[href="https://www.epicwin77.com/"]
+##[href="https://www.pgslot999.com/"]
+##[href="https://www.pussy888fun.co"]
+##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/sexyauto168.aff.html"]
+##[href="https://www.slotxo24hr.com/"]
+##[href="https://www.pghub66.com/"]
+##[href="https://ufabet8x.com/"]
+##[href="https://ufabet-1688.com/"]
+##[href="https://sa365.bet/"]
+##[href="https://sexy365.bet/"]
+##[href="https://www.ufabet1688.org/"]
+##[href="https://www.foxz24.net/"]
+##[href="https://ufabetxxx.com/"]
+##[href="https://line.me/R/ti/p/%40123direct"]
+##[href="https://luca-asia.com/"]
+##[href="https://Hydra888.com"]
+##[href="https://kingdom66.com"]
+##[href="https://lotto432.com"]
+##[href="https://ssgame666.com"]
+##[href="https://ufac4.com"]
+##[href="https://juad888.com"]
+##[href="https://brazil999.com"]
+##[href="https://ufa1919.com"]
+##[href="https://ufazeed.com"]
+##[href="https://panama888.com"]
+##[href="https://bit.ly/39wd2in"]
+##[href="https://bit.ly/3aW2ZWi"]
+##[href="https://www.ufabet8x.com/"]
+##[href^="https://www.aoxx69.net/"]
+##[href="https://www.pgwin888.com/"]
+##[href="https://www.lava69.com/"]
+##[href="https://www.sagame350.bet/casino/"]
+##[href="https://www.ufa350.bet/casino/"]
+##[href="https://www.ssgame350.com/"]
+##[href="https://bit.ly/2ZXukjZ"]
+##[href="https://www.allcasino.bet/aff/lizm"]
+##[href="https://hydra888.com"]
+##[href="https://lockdown168.com"]
+##[href="https://newyork888.com"]
+##[href="https://bit.ly/magawm24"]
+##[href="https://www.slot246.com/member/register/sms"]
+##[href="https://www.ufaball55.com"]
+##[href*="https://brazil999.com"]
+##[href="https://vip168sa.com"]
+##[href="https://slotgame6666.com"]
+##[href="https://mahagame88.com/"]
+##[href="https://ufa1919.com/"]
+##[href="https://bit.ly/3kybclM"]
+##[href="https://bit.ly/39G06b2"]
+##[href="https://www.allbaccarat.com/"]
+##[href="https://www.prettygame77.com/"]
+##[href="https://www.ufaball55.com/"]
+##[href="https://bkkjoker.com/"]
+##[href="https://www.sexyauto168.com/"]
+##[href="https://www.allcasino.bet/aff/gg1"]
+##[href="https://bit.ly/3ghLfo3"]
+##[href="https://av-subthai.net"]
+##[href="https://www.allcasino.bet/aff/kimuchi"]
+##[href="https://1688sagame.com"]
+##[href="https://1688sexygame.co"]
+##[href="https://lottovipz.com/"]
+##[href="https://csbetway.app"]
+##[href="https://www.ruayz.com/"]
+##[href="https://bit.ly/2C0bQaz"]
+##[href="https://www.allcasino.bet/aff/hayai"]
+##[href="https://www.ssgame350.com/sexy-gaming/"]
+##[href="https://www.ufa350.bet/ufabet/"]
+##[href="https://www.sagame350.bet/baccarat/"]
+##[href="https://slot0077.com"]
+##[href="https://1688slot.co"]
+##[href="https://sagame66.news"]
+##[href="https://ohoslot.com"]
+##[href="https://fafa855w.com/movieweb"]
 
-! 2021-02-11 https://www.animerem.com
-www.animerem.com##[href="https://ufac4.com"] > .imgbanner
-www.animerem.com##[href="https://hydra888.com"] > .imgbanner
-www.animerem.com##[href="https://kingdom66.com/"] > .imgbanner
-www.animerem.com##[href="https://ufazeed.com"] > .imgbanner
-www.animerem.com##[href="https://lockdown168.com/"] > .imgbanner
-www.animerem.com##[href="https://ufa1919.com"] > .imgbanner
-www.animerem.com##[href="https://london168.com/"] > .imgbanner
-www.animerem.com##[href="https://brazil999.com/"] > .imgbanner
-www.animerem.com##[href="https://juad888.com"] > .imgbanner
-www.animerem.com##[href="https://www.texas789.com/"] > .imgbanner
-www.animerem.com##[href^="https://www.ad-pic.com/fwlink.php"] > .imgbanner
-www.animerem.com##[href="https://lsm99good.com/"] > .imgbanner
-www.animerem.com##[href="https://www.luca69.com/"] > .imgbanner
-www.animerem.com##[href="https://bit.ly/2XAImHx"] > .imgbanner
-www.animerem.com##center:nth-of-type(23)
-www.animerem.com##center:nth-of-type(22)
-www.animerem.com##[href="https://www.ufabet8x.com/"] > .imgbanner
-www.animerem.com##[href="https://bit.ly/2WToQpl"] > .imgbanner
-www.animerem.com##[href="https://spadeclub99.com/"] > .imgbanner
-www.animerem.com##[href="https://www.pgwin888.com/"] > .imgbanner
-www.animerem.com##[href="https://www.ruayz.com/"] > .imgbanner
-www.animerem.com##[href="https://www.sagame350.bet/baccarat/"] > .imgbanner
-www.animerem.com##[href="https://www.ufa350.bet/"] > .imgbanner
-www.animerem.com##[href="https://lockdown168.com"] > .imgbanner
-www.animerem.com##[href="https://newyork888.com/"] > .imgbanner
-www.animerem.com##[href="https://www.allbaccarat.com/"] > .imgbanner
-
-! 2021-02-11 https://www.mio-anime.com
-www.mio-anime.com##.text-center
-www.mio-anime.com##[href="https://kingdom66.com"] > .img-responsive
-www.mio-anime.com##[href="https://lotto432.com"] > .img-responsive
-www.mio-anime.com##[href="https://hydra888.com"] > .img-responsive
-||i.imgur.com/*.gif$image
+! 2021-02-11 https://akaanime.com
+||akaanime.com/images/banners/*.gif$image
