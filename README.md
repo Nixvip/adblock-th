@@ -1,3 +1,3 @@
 # จะอัพเดทเลื่อยๆนะครับผม
-คลิกเพื่อเพิ่มโดยอัตโนมัติ >> [Add](abp:subscribe?location=https://raw.githubusercontent.com/2RDLive/adblock-th/master/adblock-th.txt&title=Adblock-TH (2RD))
+คลิกเพื่อเพิ่มโดยอัตโนมัติ >> [Add](abp:subscribe?location=https://raw.githubusercontent.com/2RDLive/adblock-th/master/adblock-th.txt&title=Adblock-TH)
 [Add]: abp:subscribe?location=https://raw.githubusercontent.com/2RDLive/adblock-th/master/adblock-th.txt&title=Adblock-TH (2RD)
