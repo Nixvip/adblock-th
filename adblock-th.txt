@@ -18,7 +18,7 @@
 ##[href^="https://gtrbet.com"]
 ##[href^="https://bit.ly/am-mafia191"]
 ##[href^="https://bit.ly/WebMf900"]
-##[href^="https://www.ole767.com/aff/1226"]
+##[href^="https://www.ole767.com/"]
 ##[href^="https://bit.ly/3eVE6K4"]
 ##[href^="https://csbetway.com"]
 ##[href^="https://www.databet88.net/%e0%b9%81%e0%b8%97%e0%b8%87%e0%b8%aa%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/"]
@@ -28,14 +28,14 @@
 ##[href^="https://slot22th.com"]
 ##[href^="https://www.eazyslot.com"]
 ##[href^="https://www.ufa350.com"]
-##[href^="https://www.sagame350.com/baccarat/"]
+##[href^="https://www.sagame350.com/"]
 ##[href^="http://bit.ly/38LY59H"]
 ##[href^="https://bit.ly/3355U9o"]
 ##[href^="https://bit.ly/38tFqzi"]
 ##[href^="https://bit.ly/38jtMqP"]
 ##[href^="https://bit.ly/2wdu6Kn"]
 ##[href^="https://sagame66.com"]
-##[href^="https://www.dubai9999.com/fwlink.php"]
+##[href^="https://www.dubai9999.com"]
 ##[href^="https://bit.ly/3eaGQ60"]
 ##[href^="https://sexygame1688.com"]
 ##[href^="https://sagame1688.com"]
@@ -90,8 +90,8 @@
 ##[href^="https://line.me/R/ti/p/%40502sebym"]
 ##[href^="http://keeptoou.com/"]
 ##[href^="http://keepforu.com"]
-##[href^="https://www.gtr365bet.com/เครดิตฟรี/"]
-##[href^="http://play.allforbet.in/overseries"]
+##[href^="https://www.gtr365bet.com"]
+##[href^="http://play.allforbet.in"]
 ##[href^="https://bit.ly/2v9YcOc"]
 ##[href^="https://www.slotv9.com/member/register"]
 ##[href^="http://overseries.18clubthb.com/"]
@@ -183,7 +183,7 @@
 ##[href^="https://slotgame66.net/"]
 ##[href^="https://www.ufa800.com"]
 ##[href^="https://www.ufabetcn.com/"]
-##[href*="http://play.allforbet.in/"]
+##[href^="http://play.allforbet.in/baanseries"]
 ##[href^="https://lin.ee/ah00DFj"]
 ##[href^="https://www.ufa88s.com"]
 ##.ads
@@ -197,19 +197,19 @@
 ##[href^="http://www.k9th.com/"]
 ##.yan-sol.yan-rek
 ##[href^="http://nanamovie.18clubthb.com/"]
-##[href*="https://www.ole727.com/aff/"]
+##[href^="https://www.ole727.com/aff/1107"]
 ##[href^="https://www.ufa365s.com/%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81"]
 ##[href^="https://cutt.ly/ZyrMATU"]
 ##[href^="http://vlt.me/nanmovie"]
 ##[href^="https://bit.ly/starnanamovie"]
 ##[href^="https://bit.ly/37eq6GT"]
-##[href*="http://play.allforbet.in/"]
+##[href^="http://play.allforbet.in/nanamovies"]
 ##[href^="https://www.588ws.com/"]
-##[href*="https://www.rb88858.com/"]
+##[href^="https://www.rb88858.com/zqwvoj"]
 ##[href^="https://bit.ly/2UEGH2Z"]
 ##[href^="https://bit.ly/2FH2YHG"]
-##[href*="https://df011.com/"]
-##[href*="https://tinyurl.com/"]
+##[href^="https://df011.com/gjdrra"]
+##[href^="https://tinyurl.com/so6mpx5"]
 ##[href^="https://coin365th.com/"]
 ##[href^="https://www.fafa191.com/"]
 ##[href^="https://www.gxy888.com/"]
@@ -217,12 +217,12 @@
 ##[href^="https://bit.ly/2GgDJwu/"]
 ###ads_fix_footer
 ###ads_fox_bottom
-##[href*="https://www.dufree4k.com/ads/redirect/"]
+##[href^="https://www.dufree4k.com/ads/"]
 ##[href^="https://www.rb88858.com/huaooj"]
 ##[href^="https://www.ufa365s.com/สมัครสมาชิก"]
 ##[href^="https://bit.ly/2Lyz49W"]
-##[href*="https://www.allcasino.bet/aff/"]
-##[href*="https://www.ole757.com/aff/"]
+##[href^="https://www.allcasino.bet/aff/pan.1"]
+##[href^="https://www.ole757.com/aff/1226"]
 ##[href^="https://line.me/R/ti/p/@sapro"]
 ##[href^="https://bit.ly/2R6GjrA"]
 www.vojkuhd.com##section
@@ -285,8 +285,8 @@ www.gg-anime.com###main > center
 www.gg-anime.com###colophon
 
 ##[href*="https://df011.com/gjdren"]
-##[href*="http://lucaclub88.games/"]
-##[href*="http://scr888th.games/"]
+##[href*="http://lucaclub88.games/gganimeLC"]
+##[href*="http://scr888th.games/gganime888"]
 ##[href*="https://ufa656.com/"]
 ##[href*="https://alllnw.com/casino/"]
 ##[href*="https://ace333.city/"]
@@ -294,10 +294,10 @@ www.gg-anime.com###colophon
 ##[href*="https://tbsbet.club/"]
 ##[href*="https://www.pidgame1168.com/"]
 ##[href*="https://mb2bet.com/"]
-##[href*="https://www.ufa700.com/"]
-##[href*="https://bacc1688.world/"]
+##[href**="https://www.ufa700.com/บาคาร่าขั้นต่ำ10บาท/"]
+##[href**="https://bacc1688.world/"]
 ##[href*="https://sbobet88.city"]
-##[href*="http://psthai888.games/"]
+##[href*="http://psthai888.games/gganimePS"]
 ##[href*="https://bacc1688.world/"]
 
 ! 25/5/2563 https://www.animeloli.com
@@ -307,190 +307,54 @@ www.animeloli.com##.imgbanner
 
 ##[href*="https://sagamingbet.com/affliate/SA0017787"]
 
-! 2021-02-11 https://movie222hd.com
-movie222hd.com##[src="https://movie222hd.com/wp-content/uploads/16055.gif"]
-movie222hd.com##.size-full.attachment-full.wp-image-7453.image
-movie222hd.com###ads-box
-movie222hd.com##.col-xs-12 > .img-banner-right-top
-movie222hd.com##[href="https://www.ufabet168.info/%E0%B8%9A%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/"] > .img-banner-left-top
-movie222hd.com##.col-xs-12 > .img-banner-left-top
-movie222hd.com##.col-xs-12 > .img-banner-center-bottom
+! 2020-11-22 https://blog.playerauctions.com
+blog.playerauctions.com##.widget_media_image.widget
+blog.playerauctions.com##.sidebar_yads
 
-! 2021-02-11 https://movie222hd.com
-movie222hd.com##[src="https://movie222hd.com/wp-content/uploads/16055.gif"]
-movie222hd.com##.size-full.attachment-full.wp-image-7453.image
-movie222hd.com###ads-box
-movie222hd.com##.col-xs-12 > .img-banner-right-top
-movie222hd.com##[href="https://www.ufabet168.info/%E0%B8%9A%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/"] > .img-banner-left-top
-movie222hd.com##.col-xs-12 > .img-banner-left-top
-movie222hd.com##.col-xs-12 > .img-banner-center-bottom
+! 2020-11-24 https://boss-anime.com
+boss-anime.com##.module_home_x > center
+boss-anime.com###flt-bn
+boss-anime.com##div.module_single_x
 
-! 2021-02-11 https://animekimi.com
-animekimi.com###animekimiads1
-animekimi.com###animekimiads4
-animekimi.com###animekimiads5
-animekimi.com###animekimiads2
-animekimi.com###animekimiads3
+! 2020-11-25 https://www.siambit.me
+||www.siambit.me/pic/55slotjokerfree.jpg$image
+||www.siambit.me/pic/55slotjokerfree.jpg$image
+||www.siambit.me/pic/IMG_2160n.JPG$image
+www.siambit.me##[src="pic/ptgame24.jpg"]
 
-##[href="https://ufac4.com"]
-##[href="https://hydra888.com"]
-##[href="https://kingdom66.com/"]
-##[href="https://ufazeed.com"]
-##[href="https://lockdown168.com/"]
-##[href="https://ufa1919.com"]
-##[href="https://london168.com/"]
-##[href="https://brazil999.com/"]
-##[href="https://juad888.com"]
-##[href="https://www.texas789.com/"]
-##[href^="https://www.ad-pic.com/fwlink.php"]
-##[href="https://lsm99good.com/"]
-##[href="https://www.luca69.com/"]
-##[href="https://bit.ly/2XAImHx"]
-##[href="https://www.ufabet8x.com/"]
-##[href="https://bit.ly/2WToQpl"]
-##[href="https://spadeclub99.com/"]
-##[href="https://www.pgwin888.com/"]
-##[href="https://www.ruayz.com/"]
-##[href*="https://www.sagame350.bet/"]
-##[href="https://www.ufa350.bet/"]
-##[href="https://lockdown168.com"]
-##[href="https://newyork888.com/"]
-##[href="https://www.allbaccarat.com/"]
-##[href="https://kingdom66.com"]
-##[href="https://lotto432.com"]
-##[href*="https://k9winball.com/"]
-##[href="https://london168.com"]
-##[href*="https://www.slot1234.com/"]
-##[href="https://www.epicwin77.com/"]
-##[href="https://www.pgslot999.com/"]
-##[href="https://www.pussy888fun.co"]
-##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/sexyauto168.aff.html"]
-##[href="https://www.slotxo24hr.com/"]
-##[href="https://www.pghub66.com/"]
-##[href="https://ufabet8x.com/"]
-##[href="https://ufabet-1688.com/"]
-##[href="https://sa365.bet/"]
-##[href="https://sexy365.bet/"]
-##[href="https://www.ufabet1688.org/"]
-##[href="https://www.foxz24.net/"]
-##[href="https://ufabetxxx.com/"]
-##[href="https://line.me/R/ti/p/%40123direct"]
-##[href="https://luca-asia.com/"]
-##[href="https://Hydra888.com"]
-##[href="https://kingdom66.com"]
-##[href="https://lotto432.com"]
-##[href="https://ssgame666.com"]
-##[href="https://ufac4.com"]
-##[href="https://juad888.com"]
-##[href="https://brazil999.com"]
-##[href="https://ufa1919.com"]
-##[href="https://ufazeed.com"]
-##[href="https://panama888.com"]
-##[href="https://bit.ly/39wd2in"]
-##[href="https://bit.ly/3aW2ZWi"]
-##[href="https://www.ufabet8x.com/"]
-##[href^="https://www.aoxx69.net/"]
-##[href="https://www.pgwin888.com/"]
-##[href="https://www.lava69.com/"]
-##[href*="https://www.sagame350.bet/"]
-##[href*="https://www.ufa350.bet/"]
-##[href="https://www.ssgame350.com/"]
-##[href="https://bit.ly/2ZXukjZ"]
-##[href*="https://www.allcasino.bet/aff/"]
-##[href="https://hydra888.com"]
-##[href="https://lockdown168.com"]
-##[href="https://newyork888.com"]
-##[href="https://bit.ly/magawm24"]
-##[href="https://www.slot246.com/member/register/sms"]
-##[href="https://www.ufaball55.com"]
-##[href*="https://brazil999.com"]
-##[href="https://vip168sa.com"]
-##[href="https://slotgame6666.com"]
-##[href="https://mahagame88.com/"]
-##[href="https://ufa1919.com/"]
-##[href="https://bit.ly/3kybclM"]
-##[href="https://bit.ly/39G06b2"]
-##[href="https://www.allbaccarat.com/"]
-##[href="https://www.prettygame77.com/"]
-##[href="https://www.ufaball55.com/"]
-##[href="https://bkkjoker.com/"]
-##[href="https://www.sexyauto168.com/"]
-##[href="https://www.allcasino.bet/aff/gg1"]
-##[href="https://bit.ly/3ghLfo3"]
-##[href="https://av-subthai.net"]
-##[href="https://www.allcasino.bet/aff/kimuchi"]
-##[href="https://1688sagame.com"]
-##[href="https://1688sexygame.co"]
-##[href="https://lottovipz.com/"]
-##[href="https://csbetway.app"]
-##[href="https://www.ruayz.com/"]
-##[href="https://bit.ly/2C0bQaz"]
-##[href="https://www.allcasino.bet/aff/hayai"]
-##[href="https://www.ssgame350.com/sexy-gaming/"]
-##[href="https://www.ufa350.bet/ufabet/"]
-##[href="https://www.sagame350.bet/baccarat/"]
-##[href="https://slot0077.com"]
-##[href="https://1688slot.co"]
-##[href="https://sagame66.news"]
-##[href="https://ohoslot.com"]
-##[href="https://fafa855w.com/movieweb"]
-##[href="https://joker79.com/"]
-##[href="https://slotxo.fun"]
-##[href="https://joker79.com"]
-##[href="https://dafuq888.com"]
-##[href="https://ufabetxxx.com"]
-##[href="https://ufabet8x.com"]
-##[href="http://bit.ly/3aTH960"]
-##[href="http://bit.ly/3nFr4U9"]
-##[href="https://bit.ly/2XWNMx8"]
-##[href="https://www.jokerxoth.com"]
-##[href="https://ufakicks.com"]
-##[href*="https://play681th.com/"]
-##[href*="https://scr99thai.com/"]
-##[href*="https://w77th.com/th/"]
-##[href="https://bit.ly/2Csa9Cl"]
-##[href="https://csbetway.app/"]
-##[href="https://slotx.me"]
-##[href="https://gclub44auto.com"]
-##[href="https://ufayabo.info"]
-##[href="https://bit.ly/2V7DVD5"]
-##[href="https://www.ufa350.bet"]
-##[href="https://luca-asia.com"]
-##[href="https://www.ufapro888s.info/"]
-##[href="https://www.ufabetwins.com"]
-##[href*="https://www.ssgame350.com/"]
-##[href="https://www.slotxoth.com"]
-##[href="https://168superslot.com"]
-##[href="https://Live222th.com"]
-##[href="https://bit.ly/UEA_AnimeSlots"]
-##[href="https://fun88n.com"]
-##[href^="https://www.wstar99.com/"]
-##[href="https://lsm99good.com"]
-##[href^="https://th-1xbet.com/"]
-##[href*="https://ruay1478.xyz/"]
-##[href="https://bit.ly/3qVjjvV"]
-##[href="https://bit.ly/32bXqij"]
-##[href*="https://www.allbaccarat168.com/"]
-##[href*="https://www.winbetth888.com/"]
-##[href*="https://www.pussy888fun.co/"]
-##[href*="https://movie2zone.com/ads/redirect/"]
-##[href*="https://doo-free.ws/ads/redirect/"]
+! 2020-11-27 https://www.manga-online.co
+www.manga-online.co##.body-wrap > center
 
-! 2021-02-11 https://akaanime.com
-||akaanime.com/images/banners/*.gif$image
+! 2021-01-02 https://manga-titan.com
+manga-titan.com##.custom-html-widget.textwidget .col-md-12
 
-##[href*="https://www.movie678.com/ads/redirect/"]
-##[href*="https://nungdeemak.com/ads/redirect/"]
-##[href="https://lin.ee/kIDPfCL"]
-##[href*="https://www.sbobet433.com/"]
-##[href*="https://ufazeed.com/"]
-##[href*="https://ufastar356.com/"]
-##[href*="https://joker.game/"]
-##[href*="https://slot.game/"]
-##[href*="https://pgslot.game/"]
+! 2021-01-04 https://anime-subth.net
+anime-subth.net##[href^="https://ufa24h.co/u/e2ef-524f-bf3d-9fe6/register"] > .img-ads
+||anime-subth.net/image/WM500kbs-2.gif$image
+||anime-subth.net/image/allc.gif$image
+||anime-subth.net/image/allc.gif$image
+||anime-subth.net/image/WM500kbs-2.gif$image
+||anime-subth.net/image/All-New-Ads-FreeSpin-728x200.gif$image
+||anime-subth.net/image/re11/728x200-JUAD888.gif$image
+||anime-subth.net/image/re11/Qmel3262.gif$image
+||anime-subth.net/image/sa2-728x400.gif$image
+||anime-subth.net/image/re11/tjfn3260.gif$image
+||anime-subth.net/image/re10/728x200-Hydra888.gif$image
+||anime-subth.net/image/banner-bacara2.gif$image
+||anime-subth.net/image/re10/728x200-lotto432.gif$image
+anime-subth.net##[href="https://slotgame6666.com"] > .img-ads
+anime-subth.net##[href="https://ufabetxxx.com"] > .img-ads
+anime-subth.net##[href="https://av-subthai.net"] > .img-ads
+anime-subth.net##.su-tabs-pane-open.tabindex-0.su-clearfix.su-tabs-pane > center > p > [href="https://1688sagame.com"] > .img-ads
+anime-subth.net##[href="https://1688sexygame.co"] > .img-ads
+anime-subth.net##.su-tabs-pane-open.tabindex-1.su-clearfix.su-tabs-pane > center > p > [href="https://1688sagame.com"] > .img-ads
+anime-subth.net##.su-tabs-pane-open.tabindex-2.su-clearfix.su-tabs-pane > center > p > [href="https://1688sagame.com"] > .img-ads
 
-! 2021-02-11 https://www.doomovie-hd.com
-www.doomovie-hd.com##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/"]
+! 2021-01-26 https://bakaman.net
+bakaman.net##center > a.logo > .img-responsive
+
+! 2021-01-29 https://manga00.com
+manga00.com###ads_fox_bottom 
 
 ##[href="https://bit.ly/34mda3m"]
 ##[href*="https://www.juad888.com"]
@@ -582,3 +446,90 @@ www.aoxx69.net##div.mb-3.col-sm-12.col-xl-6.col-lg-6 > [href="/payment/pay-promo
 ! 2021-03-15 https://www.anime4love.com
 www.anime4love.com##[href="https://www.movie4love.com"] > .img-fluid
 www.anime4love.com##[href="https://www.xnxx-sex.com"] > .img-fluid
+
+##[href^="https://bit.ly/3vvac6L"]
+##[href^="https://bit.ly/3aTH960"]
+##[href^="https://bit.ly/3nFr4U9"]
+##[href^="https://lsm99you.com"]
+##[href^="https://gclubking.net"]
+##[href^="https://www.gamefishhunter.com"]
+##[href^="https://www.zeed678.com"]
+##[href^="https://bit.ly/3qGkzlg"]
+##[href^="https://bit.ly/3cnxdRg"]
+##[href^="https://bit.ly/3r2srxJ"]
+##[href^="https://bit.ly/3cdZtXF"]
+##[href^="https://bit.ly/32bohk"]
+##[href^="https://www.zeed678.com"]
+##[href^="https://a2k.biz/s/01e90453"]
+##[href^="https://a2k.biz/s/b5fde26d"]
+##[href^="https://huaylikexxx.com"]
+##[href^="https://www.joker.bet"]
+##[href^="https://bit.ly/joker69-pgslot69"]
+##[href^="http://ufabetxxx.com"]
+##[href^="https://bit.ly/3bzxFMR"]
+##[href^="https://xn--72c9aba2bza1bcta3bzqsa6cyd.com"]
+##[href^="https://betflixjoker.com"]
+##[href^="https://reviewmovieonline.com"]
+##[href^="https://porndoo4k.com"]
+##[href^="https://ufabet168.info"]
+##[href^="https://member.ufabet168.info"]
+##[href^="https://www.joker123auto.com"]
+##[href^="https://bit.ly/3fDZmXE"]
+##[href^="https://jdbaa.com"]
+##[href^="https://www.62224.com"]
+##[href^="https://elephantkingdomvip.com"]
+##[href^="https://bit.ly/3aRfRMN"]
+##[href^="https://bit.ly/3vttFVE"]
+##[href^="https://www.awesome888.com"]
+##[href^="https://rebrand.ly"]
+##[href^="https://track.next88.com"]
+##[href^="https://bit.ly/38exaX6"]
+##[href^="https://sabet66.com"]
+##[href^="https://www.ruay.com"]
+##[href^="https://gagame88.com"]
+##[href^="https://www.slot1234.net"]
+##[href^="https://fun213213.com"]
+##[href^="https://wip1688.com"]
+##[href^="https://ufa11.xyz"]
+##[href^="https://ufabetcompany.com"]
+##[href^="https://www.ufazeed.com"]
+##[href^="https://brazil999.com"]
+##[href^="https://affiliate.w88ok.com"]
+##[href^="https://w88ok.com"]
+##[href^="https://foxz168s.net"]
+##[href^="https://lin.ee/iRoTl3R"]
+##[href^="https://nunghub.co/ads/"]
+##[href^="https://037moviefree.com/ads/"]
+##[href^="https://www.movie88th.com/ads/"]
+##[href^="https://www.fullslot168.com"]
+##[href^="https://918kiss.slot-auto.com"]
+##[href^="https://hengjing168.com"]
+##[href^="https://sagame168th.allbetasia.com"]
+##[href^="https://918kiss.slot-auto.com"]
+##[href^="https://live22.allbetasia.com"]
+##[href^="https://918hdtv.com/ads/"]
+##[href^="https://ufac4.com"]
+##[href^="https://euroclub111.com"]
+##[href^="https://app.hilobet.cc/aff/"]
+##[href^="https://affiliate.winluck99.com"]
+##[href^="http://bit.ly/GS168Group"]
+##[href^="http://aff.ufa88d.com"]
+##[href^="https://www.ssslotto.com"]
+##[href^="http://bit.ly/3eu7ARA"]
+##[href^="http://bit.ly/3v79LjE"]
+##[href^="http://bit.ly/2OiUNGE"]
+##[href^="https://www.imi66.net"]
+##[href^="https://bit.ly/3seDDI4"]
+##[href^="https://www.spnbet999.com"]
+
+
+! 2021-05-05 https://anime-168.com
+anime-168.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
+
+! 2021-05-05 https://www.doomovie-hd.com
+www.doomovie-hd.com##.left-side_floating_ad.side_floating_ad
+www.doomovie-hd.com##.right-side_floating_ad.side_floating_ad
+www.doomovie-hd.com##div.floating_ads_bt-mid_container
+
+! 2021-05-05 https://918hdtv.com
+918hdtv.com##.notice1
